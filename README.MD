@@ -13,7 +13,6 @@
 <div align="center">
     <audio controls>
         <source src="https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Santander-2024-Fundamentos-de-IA-para-Devs-Criando-um-Podcast-com-IAs-Generativas/blob/main/output/audio_editado.MP3" type="audio/mpeg">
-        Seu navegador não suporta o elemento de áudio.
     </audio>
 </div>
 
