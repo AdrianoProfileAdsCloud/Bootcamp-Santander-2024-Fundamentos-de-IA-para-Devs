@@ -1,4 +1,4 @@
-## Bootcamp Dio - Santander 2024 - Fundamentos de IA para Devs - Criando um Podcast com IAs Generativas.
+# Bootcamp Dio - Santander 2024 - Fundamentos de IA para Devs - Criando um Podcast com IAs Generativas.
 
 <p align="center">
     preview do podcast
@@ -8,14 +8,9 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+ > ℹ️ **NOTE:** Este desafio de projeto tem o objetivo de demonstrar o conheimento adquirido nas aulas do bootcamp, estou propondo nesse desafio de projeto pôr as ferramentas de IA a prova.Para tal construi um podcast utilizando ferramentas de IA.Para que essa construção se concretizar lancei mão do uso do ChatGPT para criar um título atrativo e um roteiro simplmes e conciso para o podcast, ultilizei o máximo de poder do Bing/Designer para gerar uma capa personalizada além de contar com o ElevenLabs para gerar um conteúdo de voz mais humanizado e por fim concretizar a construção do podcast.
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Segue a esteira de prompts para gerar cada etapa do processo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -39,7 +34,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts dentro do link do `Notion Template` fornecido na parte de `Materiais` para criar o podcast de maneira automatizada, seguindo o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
