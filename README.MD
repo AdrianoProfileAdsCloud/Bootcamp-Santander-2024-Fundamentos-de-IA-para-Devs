@@ -1,5 +1,10 @@
 # Bootcamp Dio - Santander 2024 - Fundamentos de IA para Devs - Criando um Podcast com IAs Generativas.
 
+
+ > ℹ️ **NOTE:** Este desafio de projeto tem o objetivo de demonstrar o conheimento adquirido nas aulas do bootcamp, estou propondo nesse desafio de projeto pôr as ferramentas de IA a prova.Para tal construi um podcast utilizando ferramentas de IA.Para que essa construção se concretizar lancei mão do uso do ChatGPT para criar um título atrativo e um roteiro simplmes e conciso para o podcast, ultilizei o máximo de poder do Bing/Designer para gerar uma capa personalizada além de contar com o ElevenLabs para gerar um conteúdo de voz mais humanizado e por fim concretizar a construção do podcast.
+<br>
+<br>
+
 <p align="center">
     preview do podcast
 </p>
@@ -8,7 +13,8 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
- > ℹ️ **NOTE:** Este desafio de projeto tem o objetivo de demonstrar o conheimento adquirido nas aulas do bootcamp, estou propondo nesse desafio de projeto pôr as ferramentas de IA a prova.Para tal construi um podcast utilizando ferramentas de IA.Para que essa construção se concretizar lancei mão do uso do ChatGPT para criar um título atrativo e um roteiro simplmes e conciso para o podcast, ultilizei o máximo de poder do Bing/Designer para gerar uma capa personalizada além de contar com o ElevenLabs para gerar um conteúdo de voz mais humanizado e por fim concretizar a construção do podcast.
+
+
 
 Segue a esteira de prompts para gerar cada etapa do processo.
 
