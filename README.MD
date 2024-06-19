@@ -1,4 +1,4 @@
-## Bootcamp Dio - Santander 2024 - Fundamentos de IA para Devs.
+## Bootcamp Dio - Santander 2024 - Fundamentos de IA para Devs - Criando um Podcast com IAs Generativas.
 
 <p align="center">
     preview do podcast
