@@ -1,4 +1,4 @@
-# Bootcamp Dio - Santander 2024 - Fundamentos de IA para Devs - Criando um Podcast com IAs Generativas.
+# Bootcamp Dio - Santander 2024 Fundamentos de IA para Devs - Criando um Podcast com IAs Generativas.
 <br><br>
 
 
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Santander-2024-Fundamentos-de-IA-para-Devs-Criando-um-Podcast-com-IAs-Generativas/blob/main/output/audio_editado.MP3"></audio>
 </div>
 
 
