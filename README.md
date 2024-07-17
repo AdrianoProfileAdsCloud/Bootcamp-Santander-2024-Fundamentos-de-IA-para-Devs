@@ -21,15 +21,15 @@
    <br>
    <br>
    
-[![Santander Bootcamp 2024 | Oportunidades de carreira em Tecnologia](https://img.youtube.com/vi/wtiaPK_200U/0.jpg)](https://www.youtube.com/watch?v=wtiaPK_200U)
+[![Santander Bootcamp 2024](https://img.youtube.com/vi/wtiaPK_200U/0.jpg)](https://www.youtube.com/watch?v=wtiaPK_200U)
 
 <br>
 
-[![Santander Bootcamp 2024 | Oportunidades de carreira em Tecnologia](https://img.youtube.com/vi/rS5wg5PQ8Us/0.jpg)](https://www.youtube.com/watch?v=rS5wg5PQ8Us)
+[![Santander Bootcamp 2024](https://img.youtube.com/vi/rS5wg5PQ8Us/0.jpg)](https://www.youtube.com/watch?v=rS5wg5PQ8Us)
 
 <br>
 
-[![Santander Bootcamp 2024 | Oportunidades de carreira em Tecnologia](https://img.youtube.com/vi/5KVa0TqxD04&t=3s/0.jpg)](https://www.youtube.com/watch?v=5KVa0TqxD04&t=3s)
+[![Santander Bootcamp 2024](https://img.youtube.com/vi/5KVa0TqxD04&t=3s/0.jpg)](https://www.youtube.com/watch?v=5KVa0TqxD04&t=3s)
     
 
   
