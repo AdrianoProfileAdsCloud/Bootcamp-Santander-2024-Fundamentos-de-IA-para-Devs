@@ -1,7 +1,7 @@
 # Bootcamp Dio - Santander 2024 - Fundamentos de IA para Devs - Artigos Tecnicos com ChatGPT e Lexica-Art.
 Projeto com o objetivo de gerar um artigo técnico com um layout e leitura amigavél com foco em promover autoridade técnica sobre o assunto abordado.
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="800" src="https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Santander-2024-Criando-Artigos-Tecnicos-com-ChatGPT-e-Lexica-art/blob/main/imagens/Capa%20-%20Artigo.png">
 </p>
 
 
