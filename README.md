@@ -16,7 +16,7 @@
 
    Além de contar com mentórias de reforço com diversos profissionais da area
 
-![Santander Bootcamp 2024 - Oportunidades de carreira em Tecnologia](https://www.youtube.com/watch?v=wtiaPK_200U)
+![Santander Bootcamp 2024-Oportunidades de carreira em Tecnologia](https://www.youtube.com/watch?v=wtiaPK_200U)
 
   
 
