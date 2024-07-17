@@ -18,7 +18,7 @@
 <br>
 
    Além de contar com mentórias de reforço com diversos profissionais da area
-[![Título do vídeo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=wtiaPK_200U)
+[![Título do vídeo](https://img.youtube.com/vi/wtiaPK_200U/0.jpg)](https://www.youtube.com/watch?v=wtiaPK_200U)
     https://www.youtube.com/watch?v=
 
   
