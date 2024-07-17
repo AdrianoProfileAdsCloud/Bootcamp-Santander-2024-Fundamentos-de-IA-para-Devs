@@ -22,6 +22,9 @@
    <br>
    
 [![Santander Bootcamp 2024 | Oportunidades de carreira em Tecnologia](https://img.youtube.com/vi/wtiaPK_200U/0.jpg)](https://www.youtube.com/watch?v=wtiaPK_200U)
+
+<br>
+[![Santander Bootcamp 2024 | Oportunidades de carreira em Tecnologia](https://img.youtube.com/vi/rS5wg5PQ8Us/0.jpg)](https://www.youtube.com/watch?v=rS5wg5PQ8Us)
     
 
   
