@@ -13,10 +13,13 @@
  - 🎯 `Desvendando as IAs Presentes no Nosso Dia a Dia`
  - 🎯 `A Teoria Por Trás das IAs`
  - 🎯 `Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades`
+<br>
+<br>
+<br>
 
    Além de contar com mentórias de reforço com diversos profissionais da area
-
-![Santander Bootcamp 2024](https://www.youtube.com/watch?v=wtiaPK_200U)
+[![Título do vídeo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=wtiaPK_200U)
+    https://www.youtube.com/watch?v=
 
   
 
