@@ -30,6 +30,10 @@
 <br>
 
 [![Santander Bootcamp 2024](https://img.youtube.com/vi/5KVa0TqxD04&t=3s/0.jpg)](https://www.youtube.com/watch?v=5KVa0TqxD04&t=3s)
+
+<br>
+
+[![Santander Bootcamp 2024](https://img.youtube.com/vi/NwWkET6KVgU/0.jpg)](https://www.youtube.com/watch?v=NwWkET6KVgU)
     
 
   
