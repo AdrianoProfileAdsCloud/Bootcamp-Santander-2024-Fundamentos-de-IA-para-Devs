@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs-Cria-de-um-Ebook-com-ChatGPT-MidJourney/blob/main/assets/EBook-Java.jpeg">
+    <img width="200" src="https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs/blob/main/PRJ-Ebook%20com%20ChatGPT%20e%20MidJourney/assets/EBook-Java.jpeg">
 </p>
 
 # Bootcamp Dio - Santander 2024 Fundamentos de IA para Devs << Criação de um Ebook com ChatGPT MidJourney>>
