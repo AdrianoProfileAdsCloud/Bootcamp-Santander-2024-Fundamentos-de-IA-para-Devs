@@ -66,11 +66,8 @@ Para executar e gerar este conteúdo basta estar no prompt do ChatGTP(https://ch
 
 <br>
 
-![CodSnap](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs-Cria-de-um-Ebook-com-ChatGPT-MidJourney/blob/main/assets/Copilot-Gera%C3%A7%C3%A3o%20de%20Conteudo.png)  
+![CodSnap](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs/blob/main/PRJ-Ebook%20com%20ChatGPT%20e%20MidJourney/assets/Gerando-Imagem-Dall-E3.png)  
 
-<br>
-
-![CodSnap](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs-Cria-de-um-Ebook-com-ChatGPT-MidJourney/blob/main/assets/Gerando-Imagem-Dall-E3.png)  
 
 
 
