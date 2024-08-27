@@ -8,7 +8,7 @@
 <br>
 <br>
 
- - [X] **Percorremos nesta jornada por**
+ - [X] **Percorremos nesta jornada por:**
  - 🎯 `Princípios de Desenvolvimento de Software Colaborativo`
  - 🎯 `Introdução a Engenheraria de Prompts com ChatGPT`
  - 🎯 `Transformando Prompts em Soluções Reais`
