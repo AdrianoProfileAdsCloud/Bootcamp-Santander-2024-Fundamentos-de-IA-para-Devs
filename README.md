@@ -1,4 +1,7 @@
 # Bootcamp Dio - Santander 2024 - Fundamentos de IA para Devs.
+<br>
+<br>
+<br>
 
 > ℹ️ **NOTE:** Bootcamp que trouxe muito pontos importantes sobre engenharia de propnts, principais fundamentos e utlização de comando para tornar as IAs generativas aliadas na hora de testar códigos,
 > refatorar, otimizar e reduzir linhas, experimentando novas maneiras para ganhar produtividade e escalar os nossos códigos.
