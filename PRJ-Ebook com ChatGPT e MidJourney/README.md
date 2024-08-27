@@ -58,7 +58,7 @@ Para executar e gerar este conteúdo basta estar no prompt do ChatGTP(https://ch
 
 <br>
 
-![CodSnap](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs-Cria-de-um-Ebook-com-ChatGPT-MidJourney/blob/main/assets/Geranando%20T%C3%ADtulo%20para%20E-Book%20Chat%20GPT.png)  
+![CodSnap](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs/blob/main/PRJ-Ebook%20com%20ChatGPT%20e%20MidJourney/assets/Geranando%20T%C3%ADtulo%20para%20E-Book%20Chat%20GPT.png)  
 
 <br>
 
